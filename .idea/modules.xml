@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ORBRecognition.iml" filepath="$PROJECT_DIR$/ORBRecognition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oRBRecognition_1/oRBRecognition_1.iml" filepath="$PROJECT_DIR$/oRBRecognition_1/oRBRecognition_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openCVLibrary249/openCVLibrary249.iml" filepath="$PROJECT_DIR$/openCVLibrary249/openCVLibrary249.iml" />
+    </modules>
+  </component>
+</project>
